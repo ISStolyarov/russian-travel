@@ -1,0 +1,11 @@
+.place__web {
+    align-self: end;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 665px) {
+    .place__web {
+        display: none;
+    }
+}

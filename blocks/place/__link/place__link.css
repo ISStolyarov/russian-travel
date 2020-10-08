@@ -1,0 +1,15 @@
+.place__link {
+    color: white;
+    /*align-self: end;*/
+}
+
+.place__link:hover {
+    transition: opacity 0.5s;
+    opacity: .3;
+}
+
+@media screen and (max-width: 665px) {
+    .place__link {
+        display: none;
+    }
+}
