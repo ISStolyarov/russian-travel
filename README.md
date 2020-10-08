@@ -8,6 +8,9 @@
 На данный момент в планах успешно сдать данную проектную работу
 А если ревьювер выявит недочеты, то понять их и исправить
 
-https://isstolyarov.github.io/russian-travel/index.html
+https://isstolyarov.github.io/russian-travel/
+
+У меня почему-то открвыается без index.html
+А если его добавляю, то не открывается :)
 
 
